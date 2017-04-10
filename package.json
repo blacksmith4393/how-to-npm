@@ -1,0 +1,14 @@
+{
+  "name": "@blacksmith4393/how-to-npm",
+  "version": "1.0.0",
+  "description": "Nodeschool \"how-to-npm\" tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
